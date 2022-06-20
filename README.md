@@ -1,2 +1,2 @@
-# yeah_python
+# Learning Python 
 For Educational Pusposes to grow
